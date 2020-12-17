@@ -1,4 +1,4 @@
 *.log
-*etcd*
+*etcd/put&get*
 *.vscode
 *.ini
